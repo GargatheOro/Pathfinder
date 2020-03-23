@@ -1,0 +1,16 @@
+[
+{
+  "modid": "corepathfinder",
+  "name": "Pathfinder Core",
+  "description": "A mod that turns Minecraft into Pathfinder.",
+  "version": "0.1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GargatheOro"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
